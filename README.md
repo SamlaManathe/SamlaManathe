@@ -5,21 +5,21 @@
 - **Técnica em Manutenção e Suporte em Informática - IFPB**
 
 ### 🖥️ Linguagens
-- **Proficiência atual**<br>
+- **Proficiência atual**<br><br>
 **Programação:** C e Python<br>
 **Marcação:** HTML<br>
-**Estilo:** CSS
-- **Em aprendizado**<br>
-**Programação:** JavaScript, TypeScript e PHP<br>
-- **Aprendizado futuro**<br>
+**Estilo:** CSS<br>
+- **Em aprendizado**<br><br>
+**Programação:** JavaScript, TypeScript e PHP<br><br>
+- **Aprendizado futuro**<br><br>
 **Programação:** Java, C#, C++, entre outras.
 
 ### 👩🏻‍💻 Experiência
-- **Estágio Supervisionado de Manutenção em Equipamentos de Hardware e Rede (IFPB)**<br>
-_Período: 02/2023 - 06/2023_<br>
-Instalei componentes de hardware (HD/SSD, fonte, memória RAM, bateria do BIOS, dispositivos E/S, cooler, etc.) nas máquinas institucionais, além de programas utilizados, o que me permitiu aprimorar meu embasamento técnico e adquirir a habilidade de resolução de problemas.
-- **Monitoria de Sistemas Digitais**<br>
-_Período: 01/2023 - 12/2023_<br>
+- **Estágio Supervisionado de Manutenção em Equipamentos de Hardware e Rede (IFPB)**<br><br>
+_Período: 02/2023 - 06/2023_<br><br>
+Instalei componentes de hardware (HD/SSD, fonte, memória RAM, bateria do BIOS, dispositivos E/S, cooler, etc.) nas máquinas institucionais, além de programas utilizados, o que me permitiu aprimorar meu embasamento técnico e adquirir a habilidade de resolução de problemas.<br>
+- **Monitoria de Sistemas Digitais**<br><br>
+_Período: 01/2023 - 12/2023_<br><br>
 Auxiliei estudantes na compreensão de sistemas de numeração (decimal, binário, octal e hexa) e suas devidas conversões, portas lógicas (AND, OR, NOT, NAND, NOR, etc.), e simplificação de expressões lógicas utilizando álgebra booleana e mapas de Karnaugh, assim contribuindo para o aprendizado dos alunos e fortalecimento do meu conhecimento na área.
 
 ### 🏅 Reconhecimento
