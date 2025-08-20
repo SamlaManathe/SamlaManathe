@@ -2,41 +2,41 @@
 
 <h2><b>👩🏻‍🎓 Formação Acadêmica</b></h2>
 
-    <ul>
-        <li><b>Bacharelanda em Ciência da Computação 2/8 - UNIPÊ</b></li>
-        <li><b>Técnica em Manutenção e Suporte em Informática - IFPB</b></li>
-    </ul>
+<ul>
+    <li><b>Bacharelanda em Ciência da Computação 2/8 - UNIPÊ</b></li>
+    <li><b>Técnica em Manutenção e Suporte em Informática - IFPB</b></li>
+</ul>
  
 <h2><b>🖥️ Linguagens</b></h2>
 
 <div style = "display: flex; padding-left: 25px;">
 
-    <div style = "width: 11%;">
+<div style = "width: 11%;">
 
-        <h4><b>Proficiência atual</b></h4>
-        <p>C e Python</p>
-        <p>HTML</p>
-        <p>CSS</p>
+<h4><b>Proficiência atual</b></h4>
+<p>C e Python</p>
+<p>HTML</p>
+<p>CSS</p>
 
-    </div>
+</div>
 
-    <div style = "width: 10%;">
+<div style = "width: 10%;">
 
-        <h4><b>Em aprendizado</b></h4>
-        <p>JavaScript</p>
-        <p>TypeScript</p>
-        <p>PHP</p>
+<h4><b>Em aprendizado</b></h4>
+<p>JavaScript</p>
+<p>TypeScript</p>
+<p>PHP</p>
 
-    </div>
+</div>
 
-    <div style = "width: 10%;">
+<div style = "width: 10%;">
 
-        <h4><b>Aprendizado futuro</b></h4>
-        <p>Java</p>
-        <p>C++</p>
-        <p>C# e outras</p>
+<h4><b>Aprendizado futuro</b></h4>
+<p>Java</p>
+<p>C++</p>
+<p>C# e outras</p>
 
-    </div>
+</div>
 
 </div>
 
