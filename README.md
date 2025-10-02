@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/SamlaManathe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamlaManathe&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamlaManathe&layout=compact&langs_count=7&theme=rose"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamlaManathe&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamlaManathe&layout=compact&langs_count=7&theme=apprentice"/>
   <h2 align="center"> </h2>
 </div>
 
