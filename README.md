@@ -1,28 +1,28 @@
-## Samla Manathe - Bacharelanda em Ciência da Computação
+<h2 align="left">Samla Manathe - Bacharelanda em Ciência da Computação</h2> 
 
-### 👩🏻‍🎓 Formação Acadêmica
-- **Bacharelanda em Ciência da Computação 2/8 - UNIPÊ**
-- **Técnica em Manutenção e Suporte em Informática - IFPB**
+<h3 align="left">👩🏻‍💻 Sobre mim: </h3>
+<ul>
+  <li>Bacharelanda em Ciência da Computação na UNIPÊ</li>
+  <li>Técnica em Manutenção e Suporte em Informática pelo IFPB</li>
+  <li>Atualmente estou aprendendo JavaScript, TypeScript e PHP</li>
+</ul>
 
-### 🖥️ Linguagens
-- **Proficiência atual**<br><br>
-**Programação:** C e Python<br>
-**Marcação:** HTML<br>
-**Estilo:** CSS<br><br>
-- **Em aprendizado**<br><br>
-**Programação:** <br>JavaScript, TypeScript e PHP<br><br>
-- **Aprendizado futuro**<br><br>
-**Programação:** <br>Java, C#, C++, entre outras.
+<h2 align="center"> </h2><br>
 
-### 👩🏻‍💻 Experiência
-- **Estágio Supervisionado de Manutenção em Equipamentos de Hardware e Rede (IFPB)**<br><br>
-_Período: 02/2023 - 06/2023_<br><br>
-Instalei componentes de hardware (HD/SSD, fonte, memória RAM, bateria do BIOS, dispositivos E/S, cooler, etc.) nas máquinas institucionais, além de programas utilizados, o que me permitiu aprimorar meu embasamento técnico e adquirir a habilidade de resolução de problemas.<br><br>
-- **Monitoria de Sistemas Digitais (IFPB)**<br><br>
-_Período: 01/2022 - 12/2022_<br><br>
-Auxiliei estudantes na compreensão de sistemas de numeração (decimal, binário, octal e hexa) e suas devidas conversões, portas lógicas (AND, OR, NOT, NAND, NOR, etc.), e simplificação de expressões lógicas utilizando álgebra booleana e mapas de Karnaugh, assim contribuindo para o aprendizado dos alunos e fortalecimento do meu conhecimento na área.
+<div align="center">
+  <a href="https://github.com/SamlaManathe">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamlaManathe&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamlaManathe&layout=compact&langs_count=7&theme=swift"/>
+  <h2 align="center"> </h2>
+</div>
 
-### 🏅 Reconhecimento
-- **Bolsista de Iniciação Científica Junior pelo CNPq (2023)**
-- **Medalha de Bronze na ONHB-A 2 (2022)**
-- **Menção Honrosa na OBMEP (2018)**
+<h3 align="left">🧠 Skills: </h3> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
