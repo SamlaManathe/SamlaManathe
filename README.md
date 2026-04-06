@@ -9,14 +9,7 @@
 
 <h2 align="center"> </h2><br>
 
-<div align="center">
-  <a href="https://github.com/SamlaManathe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamlaManathe&show_icons=dark&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamlaManathe&layout=compact&langs_count=7&theme=dark"/>
-  <h2 align="center"> </h2>
-</div>
-
-<h3 align="left">🖥️ Estudando: </h3> 
+<h3 align="left">🖥️ Linguagens de programação: </h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
