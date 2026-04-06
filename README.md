@@ -7,7 +7,7 @@
   <li>Atualmente estou aprendendo Java e C#</li>
 </ul>
 
-<h2 align="center"> </h2><br>
+<h2 align="center"> </h2>
 
 <h3 align="left">🖥️ Linguagens de programação: </h3> 
 <div style="display: inline_block"><br>
