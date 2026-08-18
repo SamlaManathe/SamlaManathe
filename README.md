@@ -1,4 +1,4 @@
-<h2 align="left">Samla Manathe - Desenvolvedora Back-End & Web</h2>
+<h2 align="center">Samla Manathe - Desenvolvedora Back-End & Web</h2>
 
 <br><p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
