@@ -1,6 +1,5 @@
-<h2 align="left">Samla Manathe - Bacharelanda em Ciência da Computação</h2>
+<h2 align="left">Samla Manathe - Desenvolvedora Back-End & Web</h2>
 
-<h3 align="left">👩🏻‍💻 Sobre mim: </h3>
 <ul>
   <li>Bacharelanda em Ciência da Computação no UNIPÊ</li>
   <li>Técnica em Manutenção e Suporte em Informática pelo IFPB</li>
