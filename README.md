@@ -1,11 +1,5 @@
 <h2 align="left">Samla Manathe - Desenvolvedora Back-End & Web</h2>
 
-<ul>
-  <li>Bacharelanda em Ciência da Computação no UNIPÊ</li>
-  <li>Técnica em Manutenção e Suporte em Informática pelo IFPB</li>
-  <li>Atualmente estou aprendendo Java e C#</li>
-</ul>
-
 <h2 align="center"> </h2>
 
 <p align="center">
