@@ -1,6 +1,6 @@
 <h2 align="left">Samla Manathe - Desenvolvedora Back-End & Web</h2>
 
-<p align="center">
+<br><p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
