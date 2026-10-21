@@ -17,7 +17,7 @@
 </p>
 
 <br><p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/amgular-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/>
 </p>
 
