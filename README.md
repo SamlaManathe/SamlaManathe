@@ -11,6 +11,12 @@
 </p>
 
 <br><p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30"/>
+</p>
+
+<br><p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/amgular-original.svg" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/>
 </p>
